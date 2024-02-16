@@ -1,0 +1,9 @@
+$mainTextColor: rgb(160, 107, 8);
+
+body{
+  background-color: #ccc;
+
+  h1{
+    color: $mainTextColor;
+  }
+}
